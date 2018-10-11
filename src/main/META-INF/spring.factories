@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationContextInitializer=\
+net.dwade.spring.boot.demo.DubboApplicationContextInitializer
